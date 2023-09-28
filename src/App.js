@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 import {
   AboutUs,
@@ -10,9 +10,9 @@ import {
   Intro,
   Laurels,
   SpecialMenu,
-} from "./container";
-import { Navbar } from "./components";
-import "./App.css";
+} from './container';
+import { Navbar } from './components';
+import './App.css';
 
 const App = () => (
   <div>
